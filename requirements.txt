@@ -4,4 +4,3 @@ openai
 chromadb
 Gunicorn
 nest_asyncio
-OPENAI_API_KEY = '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'
